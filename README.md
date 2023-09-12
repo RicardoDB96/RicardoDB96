@@ -12,9 +12,9 @@
 <td width="33%">
 <h3 align="center">Pokédex</h3>
 <div align="center">
-<a href="https://github.com/RicardoDB96/Zeitplan-School-Planner" target="_blank"><img src="https://corporate.pokemon.com/hero-pokeball-3430739968171e9fe85357e4739be704.png" width="240" alt="Pokédex Logo"></a>
+<a href="https://github.com/RicardoDB96/Pokedex" target="_blank"><img src="https://corporate.pokemon.com/hero-pokeball-3430739968171e9fe85357e4739be704.png" width="240" alt="Pokédex Logo"></a>
 <p>
-<a href="https://github.com/RicardoDB96/Zeitplan-School-Planner" target="_blank">
+<a href="https://github.com/RicardoDB96/Pokedex" target="_blank">
 <img src="https://img.shields.io/badge/Code-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
