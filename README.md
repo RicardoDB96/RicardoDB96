@@ -8,7 +8,21 @@
 ## Projects
 <table>
 <tr>
-<td width="50%">
+
+<td width="33%">
+<h3 align="center">Pokédex</h3>
+<div align="center">
+<a href="https://github.com/RicardoDB96/Zeitplan-School-Planner" target="_blank"><img src="https://corporate.pokemon.com/hero-pokeball-3430739968171e9fe85357e4739be704.png" width="240" alt="Pokédex Logo"></a>
+<p>
+<a href="https://github.com/RicardoDB96/Zeitplan-School-Planner" target="_blank">
+<img src="https://img.shields.io/badge/Code-ffffff?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>An application with a Pokémon theme where I practice the main concepts of Android.</p>
+</div>                               
+</td>
+
+<td width="33%">
 <h3 align="center">Zeitplan</h3>
 <div align="center">
 <a href="https://github.com/RicardoDB96/Zeitplan-School-Planner" target="_blank"><img src="https://play-lh.googleusercontent.com/ul6Ry-KsGLCPx_uxAoPzpaOCGgd5YIcSxLKbnHVEwlTEDM2c6GiGwAC70x0g9onJZeE=w240-h480-rw" width="240" alt="Zeitplan Logo"></a>
@@ -25,7 +39,7 @@
                                                                                       
 </td>
 
-<td width="50%">
+<td width="33%">
 <h3 align="center">My Gamer Vault</h3>
 <div align="center">                                       
 <a href="https://github.com/RicardoDB96/My-Gamer-Vault" target="_blank"><img src="https://play-lh.googleusercontent.com/PduFeM2B5iIRBirsmgH2-bVuT5OAiL73NBKvplQ0TwKmKN3dtQ7Ci1dqyiuAeqdKAKU=w240-h480-rw" width="240" alt="My Gamer Vault Logo"></a>
@@ -39,7 +53,7 @@
 </a>
 </p>
 </p>My Gamer Vault is an application to register and organize your video game collection with ease and a variety of options.</p>
-</div>                                                             
+</div>
 </table>                                                                                 
 </div>
 
