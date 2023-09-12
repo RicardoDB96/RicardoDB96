@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
 
 ## About me
-- 📲Mobile Developer
-- 🌱I want to learn **Jetpack Compose and Flutter**.
+- 📲Android Dev
+- 🌱I want to learn **Jetpack Compose, Flutter and iOS**.
 - 🎓Studying Software Development Engineering at Tecmilenio.
 
 ## Projects
